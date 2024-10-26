@@ -1,6 +1,6 @@
 #A4 Word Spinner
 #Participant: Jiho Im (solo)
-#GitHub repo link:
+#GitHub repo link: https://github.com/godsvra/A4-Team-Jiho
 
 import string
 def main():
